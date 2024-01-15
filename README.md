@@ -19,6 +19,6 @@ Dataset: Ensure you have access to the comprehensive dataset used in this projec
 Results
 The research marks a significant advancement in dermatological classification using pixel-level data and ensemble methods, demonstrating superior diagnostic accuracy in the field.
 
-Contribution
+## Contribution
 Contributions and improvements are welcome! Feel free to submit issues and pull requests.
 
